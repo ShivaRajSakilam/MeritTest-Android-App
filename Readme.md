@@ -14,7 +14,7 @@ MeritTest is an android based application, and enables the user to undertake a s
 
 <p id="img_cont">
 	<img src="./screenshot/main.jpg" width = "200" height= "400" hspace=40>
-	<img src="./screenshot/logo.jpg" width = "200" height= "400" hspace=40>
+	<img src="./screenshot/logo.jpg" width = "400" height= "400" hspace=40>
 	<img src="./screenshot/developers.jpg" width = "200" height= "400" hspace=40>
 	<img src="./screenshot/qn.jpg" width = "200" height= "400" hspace=40>
 	<img src="./screenshot/result.jpg" width = "200" height= "400" hspace=40>
