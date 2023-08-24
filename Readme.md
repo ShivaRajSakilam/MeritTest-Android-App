@@ -13,11 +13,11 @@ MeritTest is an android based application, and enables the user to undertake a s
 ## Sreenshot
 
 <p id="img_cont">
-	<img src="./screenshot/main.jpg" width = "200" height= "350" hspace=40>
-	<img src="https://github.com/ShivaRajSakilam/MeritTest-Android-App/screenshot/logo.jpg" width = "200" height= "350" hspace=40>
-	<img src="https://github.com/ShivaRajSakilam/MeritTest-Android-App/screenshot/developers.jpg" width = "200" height= "350" hspace=40>
-	<img src="https://github.com/ShivaRajSakilam/MeritTest-Android-App/screenshot/qn.jpg" width = "200" height= "350" hspace=40>
-	<img src="https://github.com/ShivaRajSakilam/MeritTest-Android-App/screenshot/result.jpg" width = "200" height= "350" hspace=40>
+	<img src="./screenshot/main.jpg" width = "200" height= "400" hspace=40>
+	<img src="./screenshot/logo.jpg" width = "200" height= "400" hspace=40>
+	<img src="./screenshot/developers.jpg" width = "200" height= "400" hspace=40>
+	<img src="./screenshot/qn.jpg" width = "200" height= "400" hspace=40>
+	<img src="./screenshot/result.jpg" width = "200" height= "400" hspace=40>
 </p>
 
 
